@@ -1,0 +1,1 @@
+let peliculas = ["spiderman", "batman"];
