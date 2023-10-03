@@ -1,0 +1,1 @@
+let nombres = [A,B,C,D]
